@@ -1,4 +1,4 @@
-# itmd521
+# ITMD-521 (Client/Server Technologies and Applications)
 
 Introduction
 
